@@ -1,4 +1,4 @@
-# Download Takecomi! Mangas [19 Oct 2025]
+# Download Takecomi! Mangas [28 Nov 2025]
 
 ## Steps
 - Change the Reader to Vertical Reader / Portrait Reader / Top-Down Scrollable / Webtoon Reader (These names are synonyms)
